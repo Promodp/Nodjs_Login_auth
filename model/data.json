@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+            "email": "pro@gamil.com",
+            "password": "123",
+            "name": "Promod Pandey",
+            "isAdmin":true
+            
+        }
+    ]
+}

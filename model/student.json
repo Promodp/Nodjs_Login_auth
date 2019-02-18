@@ -1,0 +1,16 @@
+{
+    "students":[
+      {
+        "name": "Promod Pandey",
+        "class": "10th",
+        "roll_no": 11212,
+        "age": 15
+      },
+      {
+        "name": "Ashutosh",
+        "class": "11th",
+        "roll_no": 11213,
+        "age": 16
+      }
+    ]
+}
